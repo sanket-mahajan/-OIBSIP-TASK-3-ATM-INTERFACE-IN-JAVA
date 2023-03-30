@@ -1,4 +1,4 @@
-# -OIBSIP-TASK-3-ATM-INTERFACE-IN-JAVA
+# OIBSIP-TASK-3-ATM-INTERFACE-IN-JAVA
 This is a Java program for a user-friendly ATM interface. The interface allows users to perform various banking operations such as withdrawing cash, depositing cash, and checking their account balance. The program is well-designed and easy to use.
 
 How to Use
